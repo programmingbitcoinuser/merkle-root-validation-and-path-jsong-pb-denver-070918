@@ -1,1 +1,0 @@
-{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:BlockTest", "name": "test_calculate_merkle_tree", "time": 0.0002732276916503906, "type": "success"}, {"classname": "index_test:BlockTest", "name": "test_validate_merkle_root", "time": 0.00013136863708496094, "type": "success"}]}
